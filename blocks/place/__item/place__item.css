@@ -1,0 +1,9 @@
+.place__item:not(:last-child) {
+  margin-bottom: 26px;
+}
+
+@media (max-width: 768px) {
+  .place__item:not(:last-child) {
+    margin-bottom: 25px;
+  }
+}
