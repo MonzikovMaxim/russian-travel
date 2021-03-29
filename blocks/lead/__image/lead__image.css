@@ -1,14 +1,14 @@
 .lead__image {
-    height: auto;
     margin: 64px 0 8px;
 }
 
 @media (max-width: 1100px) {
   .lead__image {
+    object-fit: cover;
     margin: 56px 0 8px;
   }
 }
-
+/* не могу понять почему на некоторых телефонах изображение сильно растягивается в высоту */
 
 @media (max-width: 470px) {
   .lead__image {
