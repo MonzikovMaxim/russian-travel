@@ -1,4 +1,4 @@
-.nav {
+.header__nav {
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   color: #FFFFFF;
   display: flex;
@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 425px) {
-  .nav {
+  .header__nav {
     padding: 14px 0 8px;
   }
 }

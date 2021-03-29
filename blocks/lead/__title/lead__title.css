@@ -14,7 +14,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
     .lead__title {
         margin: 0 24px 32px;
     }

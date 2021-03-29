@@ -28,12 +28,12 @@
 }
 
 @media (max-width: 1024px) {
-    .cover__link {
+  .cover__link {
     padding: 195px 232px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
   .cover__link {
     padding: 115px 104px;
   }
@@ -41,13 +41,13 @@
 
 @media (max-width: 665px) {
   .cover__link {
-  padding: 70px 80px;
+    padding: 70px 80px;
   }
 }  
 
 @media (max-width: 470px) {
   .cover__link {
-  padding: 48px 50px;
+    padding: 48px 50px;
   }
 } 
 
