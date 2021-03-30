@@ -39,7 +39,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 780px) {
   .place {
     grid-template-columns: repeat(2, 320px);
     row-gap: 48px;
